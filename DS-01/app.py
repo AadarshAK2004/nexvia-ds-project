@@ -1,5 +1,7 @@
 import streamlit as st, pandas as pd
-df = pd.read_csv("scored_customers.csv")
+from pathlib import Path
+df = pd.read_csv(Path(__file__).parent / "scored_customers.csv")
+st.title("Churn ROI Simulator")
 st.title("Churn ROI Simulator")
 discount = st.slider("Discount (%)", 0, 50, 10)
 boost = st.slider("Churn reduction due to offer (%)", 0, 50, 15)
