@@ -2,8 +2,7 @@
 
 Predicts which customers will leave, how long they will stay, and how much they are worth, then helps decide which retention offers are worth their cost.
 
-**Live demo (Streamlit):** `PASTE_YOUR_STREAMLIT_URL_HERE`
-**Demo video:** `PASTE_VIDEO_LINK_HERE`
+**Live demo (Streamlit):** `https://nexvia-ds-project-lxuq6squecs9tccf5xh5cv.streamlit.app/`
 
 ---
 
