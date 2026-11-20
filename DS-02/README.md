@@ -2,7 +2,7 @@
 
 Forecasts daily product demand across many stores, quantifies forecast uncertainty, makes store forecasts add up to the total, and calculates how much stock to order to limit stockouts and holding cost.
 
-**Live demo (Dash):** `PASTE_YOUR_RENDER_URL_HERE`
+**Live demo (Dash):** `https://nexvia-demand-forecast.onrender.com`
 
 ---
 
